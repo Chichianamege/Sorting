@@ -1,8 +1,6 @@
 // Name: Chidera Anamege
-// Class: CS 3305
-// Term:Spring 2024
-//	Instructor:  Carla McManus
-//	Assignment:  7-Part-1-Sorting
+
+
 class Node {
     int data; // Data stored in the node
     Node next; // Reference to the next node in the list
